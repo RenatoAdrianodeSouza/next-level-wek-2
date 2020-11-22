@@ -1,0 +1,26 @@
+{
+  "name": "next-level-wek-2",
+  "version": "1.0.0",
+  "description": "Este repositorio é sobre a semana next leve week, aonde foi montado um site com pagina inicial de pefil e com link para uma pagina que tem vidoes da rocketseat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoAdrianodeSouza/next-level-wek-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenatoAdrianodeSouza/next-level-wek-2/issues"
+  },
+  "homepage": "https://github.com/RenatoAdrianodeSouza/next-level-wek-2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
+  },
+  "devDependencies": {}
+}

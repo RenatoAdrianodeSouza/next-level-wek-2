@@ -1,0 +1,1 @@
+Este repositorio é sobre a semana next leve week, aonde foi montado um site com pagina inicial de pefil e com link para uma pagina que tem vidoes da rocketseat.
